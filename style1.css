@@ -1,0 +1,36 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #0ac9bc;
+    background: rgb(126, 61, 61);
+  }
+  
+  nav{
+    display: flex;
+    justify-content: space-around;
+     
+  }
+  *details{
+    margin: 10;
+    padding: 10;
+    text-decoration: whitesmoke;
+  }
+  
+  *:link{
+    animation-fill-mode: backwards 10;
+    shape-margin: 10px;
+    animation: name"GAME OVER" duration"1000" timing-function delay iteration-count direction fill-mode;
+  }
+
+  #myDiv {
+    transform: rotateX(150deg);
+  }
+  body{
+    text-shadow: #bfb9c3;
+font-style: italic;
+font-size: larger;
+
+  }
+  
+  body
+    
